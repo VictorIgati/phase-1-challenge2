@@ -21,7 +21,7 @@ A simple web application for managing personal shopping lists.
 - Click the SSH key 
 - Open the terminal on your computer and type _"git clone[link here]"_ E.g:
       
-       git clone git@github.com:VictorIgati/portfolio.git
+       git clone git@github.com:VictorIgati/phase-1-challenge2.git
 - Open vs code on the correct directory and it should function
 
 ## Usage
