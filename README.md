@@ -1,4 +1,4 @@
-# Shopping List
+# Shopping List Web 
 
 A simple web application for managing personal shopping lists.
 
