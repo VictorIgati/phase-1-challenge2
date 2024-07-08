@@ -15,8 +15,11 @@ A simple web application for managing personal shopping lists.
 - Mark items as purchased
 - Clear the entire shopping list
 
+## Prerequisites
+Make sure to have a modern web browser(E.g Chrome, Firefox, Edge)
+
 ## Installation
-- Open github and go to the repository phase-1-challenge2
+- Open Github and go to the repository phase-1-challenge2
 - Click the 'Fork' button 
 - Click the 'code' button 
 - Click the SSH key 
