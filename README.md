@@ -12,8 +12,10 @@ A simple web application for managing personal shopping lists.
 ## Features
 
 - Add items to the shopping lists
-- Mark items as purchased
-- Clear the entire shopping list
+![New Product](image/image.png "Add item")
+- Mark items as purchased\
+![Product Check Off](image/marked-complete1.png "Marked Complete")
+- Clear the entire shopping list  by clicking the Clear List button shown in the above image.
 
 ## Prerequisites
 Make sure to have a modern web browser(E.g Chrome, Firefox, Edge)
@@ -35,3 +37,4 @@ Make sure to have a modern web browser(E.g Chrome, Firefox, Edge)
 
 **TO GAIN ACCESS TO THE WEBSITE**
 **CLICK HERE**
+              https://victorigati.github.io/phase-1-challenge2/
