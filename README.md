@@ -1,4 +1,4 @@
-# Shopping List
+A# Shopping List
 
 A simple web application for managing personal shopping lists.
 
@@ -7,6 +7,7 @@ A simple web application for managing personal shopping lists.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Prerequisites](#prerequisites)
 
 ## Features
 
@@ -29,3 +30,5 @@ A simple web application for managing personal shopping lists.
 2. Click an item in the list to mark it as purchased (indicated by a strikethrough).
 3. Click the "Clear List" button to remove all items from the shopping list.
 
+**TO GAIN ACCESS TO THE WEBSITE**
+**CLICK HERE**
